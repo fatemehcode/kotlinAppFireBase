@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">kotlinAppFireBase</string>
+    <string name="welcome_sign_up_to_continue">Welcome, Sign Up to continue</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="retype_your_password">Retype your Password</string>
+    <string name="alredy_have_account">alredy have account!</string>
+    <string name="signin">SignIn</string>
+    <string name="textview">TextView</string>
+</resources>
